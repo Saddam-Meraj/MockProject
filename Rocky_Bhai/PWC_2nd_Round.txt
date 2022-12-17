@@ -1,0 +1,22 @@
+PWC Interview Question for 2nd Round
+============================================
+1)differnce between init.xml and init-lcm.xml 
+
+2)develop a plan to update the account request when given scenario:-
+Scenario:----
+----------------------------------------------------------------------
+there is active dir account CN name is sDDAM , OU=SAILPOINT , ou=Lan
+userprincipalname = 514;
+
+3)importance of before and after provisioning rule and how to write also.
+
+4)Differnce between correlation config and correlation rule.
+
+correlation rule:
+
+correlation config:
+
+
+
+
+
